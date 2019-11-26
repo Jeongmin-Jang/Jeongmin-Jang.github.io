@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Quick kramdown demo"
-description: "A quick demo post to some kramdown features."
-categories: [demo]
-tags: [demo, jekyll]
+title: "컴퓨터 언어"
+description: ""
+categories: [Profile]
+tags: [About me]
 redirect_from:
-  - /2017/05/25/
+  - /2019/11/25/
 ---
 
 > This is [kramdown][kramdown] formatting test page for [Simple Texture][Simple Texture] theme.
@@ -13,7 +13,7 @@ redirect_from:
 * Kramdown table of contents
 {:toc .toc}
 
-# General Usage
+# C language
 
 This is a normal paragraph.
 
@@ -38,7 +38,7 @@ The emphasize tag should _italicize_ text.
 
 This tag will let you <strike>strikeout text</strike>.
 
-## Blockquotes
+## C++
 
 > ruby -v
 >
